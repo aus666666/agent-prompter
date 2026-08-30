@@ -1,0 +1,4 @@
+interface:
+  display_name: "专业系统提示词设计师"
+  short_description: "诊断、扩展、重构并测试可部署的多类型智能体系统提示词"
+  default_prompt: "使用 $agent-prompter 诊断并完善我的系统提示词，保留原约束并给出可验证版本。"
